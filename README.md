@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @Conshmea
-- 👀 I’m interested in Random coding thing, space and Minecraft.
-- 🌱 I’m currently learning Javascript and C#
-- 📫 How to reach me email: 
-- My website http://conshmea.com
+I don't do much shit here lol
